@@ -19,13 +19,12 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 </p>
 
 **Сети и безопасность:**
 <p>
   <img src="https://img.shields.io/badge/Network-Security-orange?style=for-the-badge" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/CTF-Challenges-blue?style=for-the-badge" alt="CTF"/>
+  <img src="https://img.shields.io/badge/Ethernet-WiFi-blue?style=for-the-badge" alt="Ethernet/WiFi"/>
   <img src="https://img.shields.io/badge/Pentesting-Research-red?style=for-the-badge" alt="Pentesting"/>
 </p>
 
@@ -42,14 +41,9 @@
 `TypeScript` `Утилиты` `Продуктивность`
 
 ### 🎓 **Учебные проекты**
-[![Hackstons](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Hackstons&theme=merko)](https://github.com/RAMMLS/Hackstons)
+[![StudKempYandex2025](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=StudKempYandex2025&theme=merko)](https://github.com/RAMMLS/StudKempYandex2025)
 Учебные проекты и задания по программированию  
-`Python` `Обучение` `Хакатоны`
-
-### 🛡️ **CTF и безопасность**
-[![CTF_Learn](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=CTF_Learn&theme=merko)](https://github.com/RAMMLS/CTF_Learn)
-Задачи CTF для обучения из различных курсов  
-`C++` `CTF` `Безопасность` `Обучение`
+`Python` `Обучение` `Алгоритмы`
 
 ### 💻 **Лабораторные работы**
 <div align="center">
@@ -61,7 +55,7 @@
 
 ### ⚠️ **Исследовательские проекты**
 <div align="center">
-
+  
 [![VirusesJustForLearn](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=VirusesJustForLearn&theme=gruvbox)](https://github.com/RAMMLS/VirusesJustForLearn)
 
 </div>
@@ -78,10 +72,13 @@
 
 </div>
 
+
 <div align="center">
 
 **💡 Постоянно учусь и развиваюсь в области сетей и безопасности**
 
-*Изучаю: сети, кибербезопасность, низкоуровневое программирование, CTF*
+*Изучаю: сети, кибербезопасность, низкоуровневое программирование*
 
 </div>
+READMEold.md
+README.md
