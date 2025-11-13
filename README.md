@@ -33,55 +33,53 @@
 
 ### 🔍 **Сетевые утилиты**
 <div align="center">
-  <a href="https://github.com/RAMMLS/My-first-network-scanner">
-    <img src="https://custom-icon-badges.demolab.com/badge/🔍_My_first_network_scanner-000000?style=for-the-badge&logo=repo&logoColor=white" alt="My-first-network-scanner"/>
-  </a>
+
+[![My-first-network-scanner](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=My-first-network-scanner&theme=radical)](https://github.com/RAMMLS/My-first-network-scanner)
+
 </div>
 Простой сканер сетевых служб (HTTP, HTTPS, FTP, SSH)  
 `C++` `Сети` `Безопасность` `Сканирование`
 
 ### 🛠️ **Инструменты разработки**
 <div align="center">
-  <a href="https://github.com/RAMMLS/Tools">
-    <img src="https://custom-icon-badges.demolab.com/badge/🛠️_Tools-000000?style=for-the-badge&logo=repo&logoColor=white" alt="Tools"/>
-  </a>
+
+[![Tools](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Tools&theme=dark)](https://github.com/RAMMLS/Tools)
+
 </div>
 Набор полезных утилит и инструментов для разработки  
 `TypeScript` `Утилиты` `Продуктивность`
 
 ### 🎓 **Учебные проекты**
 <div align="center">
-  <a href="https://github.com/RAMMLS/Hackstons">
-    <img src="https://custom-icon-badges.demolab.com/badge/🎓_Hackstons-000000?style=for-the-badge&logo=repo&logoColor=white" alt="Hackstons"/>
-  </a>
+
+[![Hackstons](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Hackstons&theme=merko)](https://github.com/RAMMLS/Hackstons)
+
 </div>
 Проекты и задания с хакатонов и соревнований  
 `Python` `Обучение` `Хакатоны`
 
 ### 🛡️ **CTF и безопасность**
 <div align="center">
-  <a href="https://github.com/RAMMLS/CTF_Learn">
-    <img src="https://custom-icon-badges.demolab.com/badge/🛡️_CTF_Learn-000000?style=for-the-badge&logo=repo&logoColor=white" alt="CTF_Learn"/>
-  </a>
+
+[![CTF_Learn](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=CTF_Learn&theme=merko)](https://github.com/RAMMLS/CTF_Learn)
+
 </div>
 Задачи CTF для обучения из различных курсов  
 `C++` `CTF` `Безопасность` `Обучение`
 
 ### 💻 **Лабораторные работы**
 <div align="center">
-  <a href="https://github.com/RAMMLS/csLabs">
-    <img src="https://custom-icon-badges.demolab.com/badge/💻_csLabs-000000?style=for-the-badge&logo=repo&logoColor=white" alt="csLabs"/>
-  </a>
-  <a href="https://github.com/RAMMLS/cLabs">
-    <img src="https://custom-icon-badges.demolab.com/badge/💻_cLabs-000000?style=for-the-badge&logo=repo&logoColor=white" alt="cLabs"/>
-  </a>
+
+[![csLabs](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=csLabs&theme=vue)](https://github.com/RAMMLS/csLabs)
+[![cLabs](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=cLabs&theme=vue)](https://github.com/RAMMLS/cLabs)
+
 </div>
 
 ### ⚠️ **Исследовательские проекты**
 <div align="center">
-  <a href="https://github.com/RAMMLS/VirusesJustForLearn">
-    <img src="https://custom-icon-badges.demolab.com/badge/⚠️_Viruses_Just_For_Learn-000000?style=for-the-badge&logo=repo&logoColor=white" alt="VirusesJustForLearn"/>
-  </a>
+
+[![VirusesJustForLearn](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=VirusesJustForLearn&theme=gruvbox)](https://github.com/RAMMLS/VirusesJustForLearn)
+
 </div>
 
 > 🚨 **Внимание**: Проекты в VirusesJustForLearn созданы **исключительно в образовательных целях** для изучения принципов работы и защиты от вредоносного ПО.
