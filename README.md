@@ -32,39 +32,27 @@
 ## 🔥 Избранные проекты
 
 ### 🔍 **Сетевые утилиты**
-[![My-first-network-scanner](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=My-first-network-scanner&theme=radical)](https://github.com/RAMMLS/My-first-network-scanner)
-Простой сканер сетевых служб (HTTP, HTTPS, FTP, SSH)  
-`C++` `Сети` `Безопасность` `Сканирование`
+- **[My-first-network-scanner](https://github.com/RAMMLS/My-first-network-scanner)** - Простой сканер сетевых служб (HTTP, HTTPS, FTP, SSH)  
+  `C++` `Сети` `Безопасность` `Сканирование`
 
 ### 🛠️ **Инструменты разработки**
-[![Tools](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Tools&theme=dark)](https://github.com/RAMMLS/Tools)
-Набор полезных утилит и инструментов для разработки  
-`TypeScript` `Утилиты` `Продуктивность`
+- **[Tools](https://github.com/RAMMLS/Tools)** - Набор полезных утилит и инструментов для разработки  
+  `TypeScript` `Утилиты` `Продуктивность`
 
 ### 🎓 **Учебные проекты**
-[![Hackstons](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Hackstons&theme=merko)](https://github.com/RAMMLS/Hackstons)
-Проекты и задания с хакатонов и соревнований  
-`Python` `Обучение` `Хакатоны`
+- **[Hackstons](https://github.com/RAMMLS/Hackstons)** - Проекты и задания с хакатонов и соревнований  
+  `Python` `Обучение` `Хакатоны`
 
 ### 🛡️ **CTF и безопасность**
-[![CTF_Learn](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=CTF_Learn&theme=merko)](https://github.com/RAMMLS/CTF_Learn)
-Задачи CTF для обучения из различных курсов  
-`C++` `CTF` `Безопасность` `Обучение`
+- **[CTF_Learn](https://github.com/RAMMLS/CTF_Learn)** - Задачи CTF для обучения из различных курсов  
+  `C++` `CTF` `Безопасность` `Обучение`
 
 ### 💻 **Лабораторные работы**
-<div align="center">
-
-[![csLabs](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=csLabs&theme=vue)](https://github.com/RAMMLS/csLabs)
-[![cLabs](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=cLabs&theme=vue)](https://github.com/RAMMLS/cLabs)
-
-</div>
+- **[csLabs](https://github.com/RAMMLS/csLabs)** - Лабораторные работы по C#
+- **[cLabs](https://github.com/RAMMLS/cLabs)** - Лабораторные работы по C
 
 ### ⚠️ **Исследовательские проекты**
-<div align="center">
-
-[![VirusesJustForLearn](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=VirusesJustForLearn&theme=gruvbox)](https://github.com/RAMMLS/VirusesJustForLearn)
-
-</div>
+- **[VirusesJustForLearn](https://github.com/RAMMLS/VirusesJustForLearn)** - Образовательные проекты для изучения принципов работы ПО
 
 > 🚨 **Внимание**: Проекты в VirusesJustForLearn созданы **исключительно в образовательных целях** для изучения принципов работы и защиты от вредоносного ПО.
 
@@ -72,11 +60,17 @@
 
 <div align="center">
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=RAMMLS&show_icons=true&theme=radical&hide_title=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAMMLS&show_icons=true&theme=radical&hide_title=true&count_private=true)](https://github.com/RAMMLS)
 
-![Языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=RAMMLS&layout=compact&theme=radical&langs_count=6)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAMMLS&layout=compact&theme=radical&langs_count=6)](https://github.com/RAMMLS)
 
 </div>
+
+## 📫 Контакты
+<p align="center">
+  <a href="https://github.com/RAMMLS">GitHub</a> •
+  <a href="https://github.com/RAMMLS?tab=repositories">Проекты</a>
+</p>
 
 <div align="center">
 
