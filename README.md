@@ -52,7 +52,8 @@
 ### 🎓 **Учебные проекты**
 <div align="center">
 
-[![Hackathons](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Hackathons&theme=merko&cache_seconds=1800)](https://github.com/RAMMLS/Hackathons)
+
+[![Hackathons](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Hackathons&theme=merko)](https://github.com/RAMMLS/Hackathons)
 
 </div>
 Проекты и задания с хакатонов и соревнований  
