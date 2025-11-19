@@ -31,6 +31,15 @@
 
 ## 🔥 Избранные проекты
 
+### 🔍 **Сетевые утилиты**
+<div align="center">
+
+[![My-first-network-scanner](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=My-first-network-scanner&theme=radical)](https://github.com/RAMMLS/My-first-network-scanner)
+
+</div>
+Простой сканер сетевых служб (HTTP, HTTPS, FTP, SSH)  
+`C++` `Сети` `Безопасность` `Сканирование`
+
 ### 🛠️ **Инструменты разработки**
 <div align="center">
 
@@ -42,6 +51,7 @@
 
 ### 🎓 **Учебные проекты**
 <div align="center">
+
 
 [![Hackathons](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Hackathons&theme=merko)](https://github.com/RAMMLS/Hackathons)
 
@@ -74,15 +84,6 @@
 </div>
 
 > 🚨 **Внимание**: Проекты в VirusesJustForLearn созданы **исключительно в образовательных целях** для изучения принципов работы и защиты от вредоносного ПО.
-
-### 🔍 **Сетевые утилиты**
-<div align="center">
-
-[![My-first-network-scanner](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=My-first-network-scanner&theme=radical)](https://github.com/RAMMLS/My-first-network-scanner)
-
-</div>
-Простой сканер сетевых служб (HTTP, HTTPS, FTP, SSH)  
-`C++` `Сети` `Безопасность` `Сканирование`
 
 ## 📊 Статистика GitHub
 
