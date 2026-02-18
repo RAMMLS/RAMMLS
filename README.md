@@ -64,17 +64,6 @@
 [![csLabs](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=csLabs&theme=vue)](https://github.com/RAMMLS/csLabs)
 [![cLabs](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=cLabs&theme=vue)](https://github.com/RAMMLS/cLabs)
 
-</div>
-
-### ⚠️ **Исследовательские проекты**
-<div align="center">
-
-[![VirusesJustForLearn](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=VirusesJustForLearn&theme=gruvbox)](https://github.com/RAMMLS/VirusesJustForLearn)
-
-</div>
-
-> 🚨 **Внимание**: Проекты в VirusesJustForLearn созданы **исключительно в образовательных целях** для изучения принципов работы и защиты от вредоносного ПО.
-
 ### 🔍 **Сетевые утилиты**
 <div align="center">
 
