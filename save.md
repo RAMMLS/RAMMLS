@@ -1,104 +1,85 @@
-<p align="center">
-  <b>🚀 Разработчик | Сетевой энтузиаст | Исследователь безопасности</b>
-</p>
-
-<p align="center">
+<!-- Хедер с анимированным текстом в центре -->
+<div align="center">
   <a href="https://github.com/RAMMLS">
-    <img src="https://komarev.com/ghpvc/?username=RAMMLS&color=blue&style=flat-square" alt="Profile views"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Привет!+Я+Rammls 👋;Я+строю+крутые+штуки;Data+Science+%26+GameDev;Решаю+CTF+и+Хакатоны" alt="Rammls Typing" />
   </a>
-  <a href="https://github.com/RAMMLS?tab=followers">
-    <img src="https://img.shields.io/github/followers/RAMMLS?label=Followers&style=social" alt="Followers"/>
+</div>
+
+<p align="center">
+  Я увлечённый разработчик, чьи интересы простираются от низкоуровневого программирования до анализа данных и создания игр. Моё любопытство толкает меня на создание полезных инструментов, участие в соревнованиях и постоянное изучение новых технологий.
+</p>
+
+<!-- Основной Дашборд - выделим его -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Main%20Dashboard-dashboard--pi--one--83.vercel.app-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=171717&label=Dashboard" alt="Vercel Dashboard" /> <a href="https://dashboard-pi-one-83.vercel.app/" target="_blank">↗</a>
+</p>
+
+---
+
+### 💻 Мой Технический Арсенал
+
+<!-- Иконки сгруппированы для логики -->
+<div align="center">
+  <h4>Языки Программирования</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ts&theme=dark" alt="Языки Программирования" />
   </a>
+  <br>
+  <h4>Технологии, Инструменты & Геймдев</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,linux,bash,git,github,visualstudio,vscode&theme=dark" alt="Технологии" />
+  </a>
+</div>
+
+---
+
+### 📌 Рекомендуемые Репозитории (Мои Проекты)
+
+<!-- Сделаем выбор более разнообразным: Тулзы, ЦТФ, ИИ, Геймдев -->
+<div align="center">
+  <!-- Tools - TypeScript, C#, C, C++ -->
+  <a href="https://github.com/RAMMLS/Tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Tools&theme=dark&hide_border=true&description_lines_count=1" width="48%" alt="Tools" />
+  </a>
+  <!-- Claster-Task-LLM - Data Science, Python, Machine Learning -->
+  <a href="https://github.com/RAMMLS/Claster-Task-LLM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Claster-Task-LLM&theme=dark&hide_border=true&description_lines_count=1" width="48%" alt="Claster-Task-LLM" />
+  </a>
+  <br>
+  <!-- CTF_Learn - Security, C++ -->
+  <a href="https://github.com/RAMMLS/CTF_Learn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=CTF_Learn&theme=dark&hide_border=true&description_lines_count=1" width="48%" alt="CTF_Learn" />
+  </a>
+  <!-- FARMWORLD - GameDev, Godot, GDScript -->
+  <a href="https://github.com/RAMMLS/FARMWORLD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=FARMWORLD&theme=dark&hide_border=true&description_lines_count=1" width="48%" alt="FARMWORLD" />
+  </a>
+</div>
+
+---
+
+### 📊 Статистика Моего GitHub
+
+<!-- Используем тему dark для consistency -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAMMLS&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&locale=ru" alt="RAMMLS GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAMMLS&layout=compact&theme=dark&hide_border=true&locale=ru" alt="RAMMLS Top Languages" width="48%" />
+</div>
+
+<p align="center">
+  <!-- Стрик коммитов - добавляет динамики -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAMMLS&theme=dark&hide_border=true&locale=ru" alt="RAMMLS Streak Stats" />
 </p>
 
-## 🛠️ Мой технологический стек
+---
 
-**Языки программирования:**
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-</p>
+### 🐍 Живой Граф Активности
 
-**Сети и безопасность:**
-<p>
-  <img src="https://img.shields.io/badge/Network-Security-orange?style=for-the-badge" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/CTF-Challenges-blue?style=for-the-badge" alt="CTF"/>
-  <img src="https://img.shields.io/badge/Pentesting-Research-red?style=for-the-badge" alt="Pentesting"/>
-</p>
-
-## 🔥 Избранные проекты
-
-### 🔍 **Сетевые утилиты**
+<!-- Змейка будет бегать сама -->
 <div align="center">
-
-[![My-first-network-scanner](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=My-first-network-scanner&theme=radical)](https://github.com/RAMMLS/My-first-network-scanner)
-
-</div>
-Простой сканер сетевых служб (HTTP, HTTPS, FTP, SSH)  
-`C++` `Сети` `Безопасность` `Сканирование`
-
-### 🛠️ **Инструменты разработки**
-<div align="center">
-
-[![Tools](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Tools&theme=dark)](https://github.com/RAMMLS/Tools)
-
-</div>
-Набор полезных утилит и инструментов для разработки  
-`TypeScript` `Утилиты` `Продуктивность`
-
-### 🎓 **Учебные проекты**
-<div align="center">
-
-
-[![Hackathons](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Hackathons&theme=merko)](https://github.com/RAMMLS/Hackathons)
-
-</div>
-Проекты и задания с хакатонов и соревнований  
-`Python` `Обучение` `Хакатоны`
-
-### 🛡️ **CTF и безопасность**
-<div align="center">
-
-[![CTF_Learn](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=CTF_Learn&theme=merko)](https://github.com/RAMMLS/CTF_Learn)
-
-</div>
-Задачи CTF для обучения из различных курсов  
-`C++` `CTF` `Безопасность` `Обучение`
-
-### 💻 **Лабораторные работы**
-<div align="center">
-
-[![csLabs](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=csLabs&theme=vue)](https://github.com/RAMMLS/csLabs)
-[![cLabs](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=cLabs&theme=vue)](https://github.com/RAMMLS/cLabs)
-
-</div>
-
-### ⚠️ **Исследовательские проекты**
-<div align="center">
-
-[![VirusesJustForLearn](https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=VirusesJustForLearn&theme=gruvbox)](https://github.com/RAMMLS/VirusesJustForLearn)
-
-</div>
-
-> 🚨 **Внимание**: Проекты в VirusesJustForLearn созданы **исключительно в образовательных целях** для изучения принципов работы и защиты от вредоносного ПО.
-
-## 📊 Статистика GitHub
-
-<div align="center">
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=RAMMLS&show_icons=true&theme=radical&hide_title=true&count_private=true)
-
-![Языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=RAMMLS&layout=compact&theme=radical&langs_count=6)
-
-</div>
-
-<div align="center">
-
-**💡 Постоянно учусь и развиваюсь в области сетей и безопасности**
-
-*Изучаю: сети, кибербезопасность, низкоуровневое программирование, CTF*
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAMMLS/RAMMLS/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAMMLS/RAMMLS/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RAMMLS/RAMMLS/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
