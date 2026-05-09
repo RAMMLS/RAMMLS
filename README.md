@@ -71,15 +71,15 @@
   <a href="https://github.com/RAMMLS/Claster-Task-LLM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Claster-Task-LLM&theme=tokyonight&hide_border=true" width="48%" alt="Claster-Task-LLM" />
   </a>
-  <a href="https://github.com/RAMMLS/Simulation-detecter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Simulation-detecter&theme=tokyonight&hide_border=true" width="48%" alt="Simulation-detecter" />
+  <a href="https://github.com/RAMMLS/Simulation-Detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Simulation-Detector&theme=tokyonight&hide_border=true" width="48%" alt="Simulation-Detector" />
   </a>
   <br>
   <a href="https://github.com/RAMMLS/Hackathons">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Hackathons&theme=tokyonight&hide_border=true" width="48%" alt="Hackathons" />
   </a>
-  <a href="https://github.com/RAMMLS/My-automatization-linux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=My-automatization-linux&theme=tokyonight&hide_border=true" width="48%" alt="My-automatization-linux" />
+  <a href="https://github.com/RAMMLS/My-Automatiozation-Linux">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=My-Automatiozation-Linux&theme=tokyonight&hide_border=true" width="48%" alt="My-Automatiozation-Linux" />
   </a>
 </div>
 
