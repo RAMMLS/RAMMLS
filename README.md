@@ -23,7 +23,7 @@
 
 ---
 
-###  Стек
+### 💻 Мой стек
 
 <div align="center">
   <h4>Языки Программирования</h4>
@@ -47,7 +47,7 @@
 
 ---
 
-###  Деплой
+### 🌐 Деплой
 
 <div align="center">
   <a href="https://dashboard-pi-one-83.vercel.app/" target="_blank">
@@ -57,7 +57,7 @@
 
 ---
 
-###  Пины
+### 📌 Пины
 
 <!-- Используем тему tokyonight (Идеально сочетается с фиолетовым) -->
 <div align="center">
@@ -85,7 +85,7 @@
 
 ---
 
-###  Статистика 
+### 📊 Статистика 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAMMLS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=ru" alt="RAMMLS GitHub Stats" width="48%" />
@@ -98,7 +98,7 @@
 
 ---
 
-###  Активность
+### 🐍 Активность
 
 <div align="center">
   <picture>
