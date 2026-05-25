@@ -62,7 +62,7 @@
 ## Pin Gallery
 
 <p align="center">
-  Сначала показываю самые живые проекты за последний месяц. Если их меньше пяти, добираю сильными репозиториями из общего пула, чтобы галерея всегда оставалась полной и шла сверху вниз по реальному приоритету.
+  В галерее только активные проекты. `hotness-score` считает свежесть последнего push за последний месяц и добавляет бонус за `stars`, `forks` и открытые `issues`, поэтому наверху оказываются именно те репозитории, над которыми я реально работаю сейчас.
 </p>
 
 <!-- PIN-CARDS:START -->
@@ -92,13 +92,6 @@
     <td align="center">
       <a href="https://github.com/RAMMLS/Simulation-Detector">
         <img src=".github/assets/generated/pin-simulation-detector.svg" width="100%" alt="Simulation-Detector pin" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/Tools">
-        <img src=".github/assets/generated/pin-tools.svg" width="100%" alt="Tools pin" />
       </a>
     </td>
   </tr>

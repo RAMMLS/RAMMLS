@@ -27,7 +27,7 @@
   <circle cx="458" cy="138" r="74" fill="#66C6B4" opacity="0.08"/>
   <path d="M410 0 L560 0 L560 78 Q480 78 410 0Z" fill="url(#shine)" opacity="0.62"/>
   <rect x="426" y="22" width="108" height="34" rx="17" fill="#1F2834" stroke="#E0A96D" stroke-width="1.1"/>
-  <text x="446" y="45" fill="#F6C28B" font-family="'BenzinMedium', 'SFMono-Regular', Consolas, monospace" font-size="14" letter-spacing="1">TOP #2</text>
+  <text x="446" y="45" fill="#F6C28B" font-family="'BenzinMedium', 'SFMono-Regular', Consolas, monospace" font-size="14" letter-spacing="1">TOP #1</text>
   <text x="34" y="50" fill="#938B84" font-family="'BenzinMedium', 'SFMono-Regular', Consolas, monospace" font-size="14" letter-spacing="1.6">SCORE 100.0</text>
   <text x="34" y="88" fill="#F5EFE7" font-family="'BenzinBold', 'Arial Black', Helvetica, Arial, sans-serif" font-size="31" letter-spacing="0.2">LentaTechHack</text>
   <text x="34" y="118" fill="#C8C0B7" font-family="'BenzinMedium', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Хакатон от ООО "Лента" по CV</text>
