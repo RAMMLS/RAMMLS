@@ -1,109 +1,131 @@
-<!-- Хедер с анимированным текстом (Красивый неоново-фиолетовый цвет) -->
 <div align="center">
-  <a href="https://github.com/RAMMLS">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Привет!+Я+Rammls+👋;Нахожусь+в+поиске+работы;Пилю+self-host+решения;Люблю+Linux+и+Low-level" alt="Rammls Typing" />
-  </a>
+  <img src=".github/assets/generated/header-banner.svg" width="100%" alt="Rammls profile header" />
 </div>
 
+<h1 align="center">RAMMLS</h1>
+
 <p align="center">
-  Разрабатываю полезные тулзы, пишу скрипты для автоматизации Linux, решаю CTF и копаюсь в машинном обучении. <br>
-  Сейчас активно разрабатываю <b>self-host систему для автоматической проверки лабораторных работ студентов</b>.
+  Веду команды и продуктовые направления, где важно не только сделать, но и нормально продать решение: automation, developer tooling, ML-прототипы и инфраструктурные сервисы.<br>
+  Сейчас основной фокус — <b>self-host платформа для автоматической проверки лабораторных работ</b> с внятным UX, нормальной эксплуатацией и понятной ценностью для пользователей.
 </p>
 
-<!-- Кнопки (Плоский стиль 'flat-square', сдержанные и стильные) -->
 <p align="center">
-  💼 <b>Нахожусь в активном поиске работы!</b><br><br>
-  <a href="https://hh.ru/resume/adf11c31ff103e79100039ed1f4a47594c6c4f" target="_blank">
-    <img src="https://img.shields.io/badge/Резюме-hh.ru-D10000?style=flat-square&logo=headhunter&logoColor=white" alt="HH.ru" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-E0A96D?style=for-the-badge&logo=target&logoColor=0C1015&labelColor=131922" alt="Open to work" />
+  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION_%26_TOOLING-7EB6FF?style=for-the-badge&logo=git&logoColor=0C1015&labelColor=131922" alt="Focus" />
+  <img src="https://img.shields.io/badge/STACK-ML_%2B_INFRA-66C6B4?style=for-the-badge&logo=docker&logoColor=0C1015&labelColor=131922" alt="Stack" />
+</p>
+
+<p align="center">
+  <a href="https://hh.ru/resume/adf11c31ff103e79100039ed1f4a47594c6c4f">
+    <img src="https://img.shields.io/badge/Resume-hh.ru-E0A96D?style=for-the-badge&logo=headhunter&logoColor=0C1015&labelColor=131922" alt="HH resume" />
   </a>
   <a href="mailto:robertr.shakirov@bk.ru">
-    <img src="https://img.shields.io/badge/Написать_на_почту-robertr.shakirov@bk.ru-005FF9?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-robertr.shakirov%40bk.ru-7EB6FF?style=for-the-badge&logo=gmail&logoColor=0C1015&labelColor=131922" alt="Email" />
+  </a>
+  <a href="https://dashboard-pi-one-83.vercel.app/">
+    <img src="https://img.shields.io/badge/Main_Dashboard-live-66C6B4?style=for-the-badge&logo=vercel&logoColor=0C1015&labelColor=131922" alt="Main dashboard" />
   </a>
 </p>
 
 ---
 
-### 💻 Мой стек
+## Stack
 
-<div align="center">
-  <h4>Языки Программирования</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,c,cpp,cs,python,ts&theme=dark" alt="Языки Программирования" />
-  </a><br>
-  <img src="https://img.shields.io/badge/Assembly-BB9AF7?style=flat-square&labelColor=1A1B26&logo=assembly&logoColor=white" alt="Assembly" />
-  <br><br>
-  
-  <h4>Фреймворки и Библиотеки</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet&theme=dark" alt="Фреймворки" />
-  </a>
-  <br><br>
-
-  <h4>Инструменты и Окружение</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,vim,neovim,godot&theme=dark" alt="Технологии" />
-  </a>
-</div>
-
----
-
-### 🌐 Деплой
-
-<div align="center">
-  <a href="https://dashboard-pi-one-83.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Дашборд_АИС_ЭНП-BB9AF7?style=flat-square&labelColor=1A1B26&logo=vercel&logoColor=white" alt="Dashboard" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/LANGUAGES-E0A96D?style=for-the-badge&logo=codecrafters&logoColor=0C1015&labelColor=131922" alt="Languages" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=go,c,cpp,cs,python,ts&theme=dark" alt="Languages icons" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Assembly-2D3745?style=flat-square&logoColor=F5EFE7&labelColor=131922" alt="Assembly" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/FRAMEWORKS-7EB6FF?style=for-the-badge&logo=react&logoColor=0C1015&labelColor=131922" alt="Frameworks" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet&theme=dark" alt="Framework icons" />
+      <br><br>
+      <span>&nbsp;</span>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/TOOLS-66C6B4?style=for-the-badge&logo=linux&logoColor=0C1015&labelColor=131922" alt="Tools" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,vim,neovim,godot&theme=dark" alt="Tools icons" />
+      <br><br>
+      <span>&nbsp;</span>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📌 Пины
-
-<!-- Используем тему tokyonight (Идеально сочетается с фиолетовым) -->
-<div align="center">
-  <a href="https://github.com/RAMMLS/Tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Tools&theme=tokyonight&hide_border=true" width="48%" alt="Tools" />
-  </a>
-  <a href="https://github.com/RAMMLS/CTF_Learn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=CTF_Learn&theme=tokyonight&hide_border=true" width="48%" alt="CTF_Learn" />
-  </a>
-  <br>
-  <a href="https://github.com/RAMMLS/Claster-Task-LLM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Claster-Task-LLM&theme=tokyonight&hide_border=true" width="48%" alt="Claster-Task-LLM" />
-  </a>
-  <a href="https://github.com/RAMMLS/Simulation-Detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Simulation-Detector&theme=tokyonight&hide_border=true" width="48%" alt="Simulation-Detector" />
-  </a>
-  <br>
-  <a href="https://github.com/RAMMLS/Hackathons">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=Hackathons&theme=tokyonight&hide_border=true" width="48%" alt="Hackathons" />
-  </a>
-  <a href="https://github.com/RAMMLS/My-Automatiozation-Linux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMLS&repo=My-Automatiozation-Linux&theme=tokyonight&hide_border=true" width="48%" alt="My-Automatiozation-Linux" />
-  </a>
-</div>
-
----
-
-### 📊 Статистика 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAMMLS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=ru" alt="RAMMLS GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAMMLS&layout=compact&theme=tokyonight&hide_border=true&locale=ru" alt="RAMMLS Top Languages" width="48%" />
-</div>
+## Pin Gallery
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAMMLS&theme=tokyonight&hide_border=true&locale=ru" alt="RAMMLS Streak Stats" />
+  Сначала показываю самые живые проекты за последний месяц. Если их меньше пяти, добираю сильными репозиториями из общего пула, чтобы галерея всегда оставалась полной и шла сверху вниз по реальному приоритету.
+</p>
+
+<!-- PIN-CARDS:START -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RAMMLS/LentaTechHack">
+        <img src=".github/assets/generated/pin-lentatechhack.svg" width="100%" alt="LentaTechHack pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RAMMLS/IDE-Git-Ru">
+        <img src=".github/assets/generated/pin-ide-git-ru.svg" width="100%" alt="IDE-Git-Ru pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RAMMLS/My-Automatiozation-Linux">
+        <img src=".github/assets/generated/pin-my-automatiozation-linux.svg" width="100%" alt="My-Automatiozation-Linux pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RAMMLS/Simulation-Detector">
+        <img src=".github/assets/generated/pin-simulation-detector.svg" width="100%" alt="Simulation-Detector pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RAMMLS/Tools">
+        <img src=".github/assets/generated/pin-tools.svg" width="100%" alt="Tools pin" />
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- PIN-CARDS:END -->
+
+---
+
+## GitHub Snapshot
+
+<div align="center">
+  <img src=".github/assets/generated/stats-summary.svg" width="49%" alt="GitHub summary" />
+  <img src=".github/assets/generated/languages-overview.svg" width="49%" alt="Languages overview" />
+</div>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RAMMLS/RAMMLS/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
 </p>
 
 ---
 
-### 🐍 Активность
+## Recent Activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAMMLS/RAMMLS/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAMMLS/RAMMLS/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RAMMLS/RAMMLS/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<p align="center">
+  <img src=".github/assets/generated/commit-ticker.svg" width="100%" alt="Recent commits ticker" />
+</p>
