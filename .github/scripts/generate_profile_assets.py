@@ -465,7 +465,7 @@ def build_pin_gallery_markup(repositories: list[dict]) -> str:
             [
                 '    <td align="center">',
                 f'      <a href="{repo["html_url"]}">',
-                f'        <img src=".github/assets/generated/{pin_file_name(repo["name"])}" width="100%" alt="{escape(repo["name"])} pin" />',
+                f'        <img src=".github/assets/generated/{pin_file_name(repo["name"])}" width="480" alt="{escape(repo["name"])} pin" />',
                 "      </a>",
                 "    </td>",
             ]

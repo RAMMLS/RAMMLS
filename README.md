@@ -70,28 +70,28 @@
   <tr>
     <td align="center">
       <a href="https://github.com/RAMMLS/LentaTechHack">
-        <img src=".github/assets/generated/pin-lentatechhack.svg" width="100%" alt="LentaTechHack pin" />
+        <img src=".github/assets/generated/pin-lentatechhack.svg" width="480" alt="LentaTechHack pin" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/RAMMLS/IDE-Git-Ru">
-        <img src=".github/assets/generated/pin-ide-git-ru.svg" width="100%" alt="IDE-Git-Ru pin" />
+        <img src=".github/assets/generated/pin-ide-git-ru.svg" width="480" alt="IDE-Git-Ru pin" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/RAMMLS/My-Automatiozation-Linux">
-        <img src=".github/assets/generated/pin-my-automatiozation-linux.svg" width="100%" alt="My-Automatiozation-Linux pin" />
+        <img src=".github/assets/generated/pin-my-automatiozation-linux.svg" width="480" alt="My-Automatiozation-Linux pin" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/RAMMLS/Simulation-Detector">
-        <img src=".github/assets/generated/pin-simulation-detector.svg" width="100%" alt="Simulation-Detector pin" />
+        <img src=".github/assets/generated/pin-simulation-detector.svg" width="480" alt="Simulation-Detector pin" />
       </a>
     </td>
   </tr>
