@@ -156,11 +156,12 @@ def repo_card(repo: dict, rank: int) -> str:
     stars = repo.get("stargazers_count", 0)
     hotness = repo["hotness_score"]
     days_since_push = repo["days_since_push"]
-    line1, line2 = wrap_lines(description, width=34, lines=2)
+    lines = wrap_lines(description, width=54, lines=1)
+    line1 = lines[0] if lines else ""
     dot = language_color(language)
     name_size = title_font_size(name)
     freshness_label = "today" if days_since_push == 0 else f"{days_since_push}d ago"
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" role="img" aria-labelledby="title desc">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="560" height="140" viewBox="0 0 560 140" role="img" aria-labelledby="title desc">
   <title>{escape(name)} pin card</title>
   <desc>{escape(description)}</desc>
   {svg_font_style()}
@@ -176,28 +177,27 @@ def repo_card(repo: dict, rank: int) -> str:
       <stop offset="100%" stop-color="{ACCENT_SECONDARY}"/>
     </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#000000" flood-opacity="0.34"/>
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000000" flood-opacity="0.3"/>
     </filter>
     <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="{ACCENT_GLOW}" stop-opacity="0.18"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="560" height="190" rx="26" fill="url(#card-bg)" filter="url(#shadow)"/>
-  <rect x="10" y="10" width="540" height="170" rx="20" fill="{BG_PANEL}" fill-opacity="0.88" stroke="url(#stroke)" stroke-width="1.8"/>
-  <circle cx="492" cy="46" r="60" fill="{ACCENT_PRIMARY}" opacity="0.12"/>
-  <circle cx="458" cy="138" r="74" fill="#66C6B4" opacity="0.08"/>
-  <path d="M410 0 L560 0 L560 78 Q480 78 410 0Z" fill="url(#shine)" opacity="0.62"/>
-  <rect x="426" y="22" width="108" height="34" rx="17" fill="{BG_SOFT}" stroke="{ACCENT_PRIMARY}" stroke-width="1.1"/>
-  <text x="446" y="45" fill="{ACCENT_GLOW}" font-family="{UI_FONT}" font-size="14" letter-spacing="1">TOP #{rank}</text>
-  <text x="34" y="50" fill="{TEXT_MUTED}" font-family="{UI_FONT}" font-size="14" letter-spacing="1.6">SCORE {hotness:.1f}</text>
-  <text x="34" y="88" fill="{TEXT_PRIMARY}" font-family="{DISPLAY_FONT}" font-size="{name_size}" letter-spacing="0.2">{escape(name)}</text>
-  <text x="34" y="118" fill="{TEXT_SECONDARY}" font-family="{BODY_FONT}" font-size="15">{escape(line1)}</text>
-  <text x="34" y="142" fill="{TEXT_MUTED}" font-family="{BODY_FONT}" font-size="15">{escape(line2)}</text>
-  <circle cx="38" cy="162" r="6" fill="{dot}"/>
-  <text x="54" y="167" fill="{TEXT_SECONDARY}" font-family="{UI_FONT}" font-size="15">{escape(language)}</text>
-  <text x="236" y="167" fill="{TEXT_MUTED}" font-family="{UI_FONT}" font-size="15">Stars {stars}</text>
-  <text x="336" y="167" fill="{ACCENT_GLOW}" font-family="{UI_FONT}" font-size="15">Push {freshness_label}</text>
+  <rect width="560" height="140" rx="22" fill="url(#card-bg)" filter="url(#shadow)"/>
+  <rect x="10" y="10" width="540" height="120" rx="16" fill="{BG_PANEL}" fill-opacity="0.88" stroke="url(#stroke)" stroke-width="1.6"/>
+  <circle cx="492" cy="40" r="50" fill="{ACCENT_PRIMARY}" opacity="0.12"/>
+  <circle cx="458" cy="100" r="60" fill="#66C6B4" opacity="0.08"/>
+  <path d="M420 0 L560 0 L560 64 Q480 64 420 0Z" fill="url(#shine)" opacity="0.62"/>
+  <rect x="440" y="20" width="94" height="28" rx="14" fill="{BG_SOFT}" stroke="{ACCENT_PRIMARY}" stroke-width="1.1"/>
+  <text x="456" y="39" fill="{ACCENT_GLOW}" font-family="{UI_FONT}" font-size="13" letter-spacing="1">TOP #{rank}</text>
+  <text x="34" y="40" fill="{TEXT_MUTED}" font-family="{UI_FONT}" font-size="13" letter-spacing="1.4">SCORE {hotness:.1f}</text>
+  <text x="34" y="74" fill="{TEXT_PRIMARY}" font-family="{DISPLAY_FONT}" font-size="{name_size}" letter-spacing="0.2">{escape(name)}</text>
+  <text x="34" y="100" fill="{TEXT_SECONDARY}" font-family="{BODY_FONT}" font-size="14">{escape(line1)}</text>
+  <circle cx="38" cy="118" r="5" fill="{dot}"/>
+  <text x="52" y="122" fill="{TEXT_SECONDARY}" font-family="{UI_FONT}" font-size="13">{escape(language)}</text>
+  <text x="236" y="122" fill="{TEXT_MUTED}" font-family="{UI_FONT}" font-size="13">Stars {stars}</text>
+  <text x="336" y="122" fill="{ACCENT_GLOW}" font-family="{UI_FONT}" font-size="13">Push {freshness_label}</text>
 </svg>
 """
 
