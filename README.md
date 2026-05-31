@@ -69,15 +69,15 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/RAMMLS/LentaTechHack">
-        <img src=".github/assets/generated/pin-lentatechhack.svg" width="480" alt="LentaTechHack pin" />
+      <a href="https://github.com/RAMMLS/IDE-Git-Ru">
+        <img src=".github/assets/generated/pin-ide-git-ru.svg" width="480" alt="IDE-Git-Ru pin" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/RAMMLS/IDE-Git-Ru">
-        <img src=".github/assets/generated/pin-ide-git-ru.svg" width="480" alt="IDE-Git-Ru pin" />
+      <a href="https://github.com/RAMMLS/LentaTechHack">
+        <img src=".github/assets/generated/pin-lentatechhack.svg" width="480" alt="LentaTechHack pin" />
       </a>
     </td>
   </tr>
