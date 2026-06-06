@@ -95,13 +95,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/Simulation-Detector">
-        <img src=".github/assets/generated/pin-simulation-detector.svg" width="480" alt="Simulation-Detector pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
