@@ -88,13 +88,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/My-Automatiozation-Linux">
-        <img src=".github/assets/generated/pin-my-automatiozation-linux.svg" width="480" alt="My-Automatiozation-Linux pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
