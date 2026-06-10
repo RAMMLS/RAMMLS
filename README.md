@@ -69,6 +69,13 @@
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/RAMMLS/MyArticles">
+        <img src=".github/assets/generated/pin-myarticles.svg" width="480" alt="MyArticles pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/RAMMLS/TgBotForOurGroup">
         <img src=".github/assets/generated/pin-tgbotforourgroup.svg" width="480" alt="TgBotForOurGroup pin" />
       </a>
