@@ -69,6 +69,13 @@
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/RAMMLS/ChikoApp">
+        <img src=".github/assets/generated/pin-chikoapp.svg" width="480" alt="ChikoApp pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/RAMMLS/MyArticles">
         <img src=".github/assets/generated/pin-myarticles.svg" width="480" alt="MyArticles pin" />
       </a>
