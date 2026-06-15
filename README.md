@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Main_Dashboard-live-66C6B4?style=for-the-badge&logo=vercel&logoColor=0C1015&labelColor=131922" alt="Main dashboard" />
   </a>
   <a href="https://chiko-app-two.vercel.app">
-    <img src="https://img.shields.io/badge/Main_Dashboard-live-66C6B4?style=for-the-badge&logo=vercel&logoColor=0C1015&labelColor=131922" alt="Main dashboard" />
+    <img src="https://img.shields.io/badge/Chiko_App-live-DE5A81?style=for-the-badge&logo=vercel&logoColor=0C1015&labelColor=131922" alt="Main dashboard" />
   </a>
   
 </p>
@@ -73,22 +73,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/RAMMLS/ChikoApp">
-        <img src=".github/assets/generated/pin-chikoapp.svg" width="480" alt="ChikoApp pin" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/MyArticles">
-        <img src=".github/assets/generated/pin-myarticles.svg" width="480" alt="MyArticles pin" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/TgBotForOurGroup">
-        <img src=".github/assets/generated/pin-tgbotforourgroup.svg" width="480" alt="TgBotForOurGroup pin" />
+      <a href="https://github.com/RAMMLS/LentaTechHack">
+        <img src=".github/assets/generated/pin-lentatechhack.svg" width="480" alt="LentaTechHack pin" />
       </a>
     </td>
   </tr>
@@ -101,8 +87,15 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/RAMMLS/LentaTechHack">
-        <img src=".github/assets/generated/pin-lentatechhack.svg" width="480" alt="LentaTechHack pin" />
+      <a href="https://github.com/RAMMLS/My-Automatiozation-Linux">
+        <img src=".github/assets/generated/pin-my-automatiozation-linux.svg" width="480" alt="My-Automatiozation-Linux pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RAMMLS/Simulation-Detector">
+        <img src=".github/assets/generated/pin-simulation-detector.svg" width="480" alt="Simulation-Detector pin" />
       </a>
     </td>
   </tr>
