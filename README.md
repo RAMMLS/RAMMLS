@@ -99,13 +99,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/LentaTechHack">
-        <img src=".github/assets/generated/pin-lentatechhack.svg" width="480" alt="LentaTechHack pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
