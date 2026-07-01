@@ -92,13 +92,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/IDE-Git-Ru">
-        <img src=".github/assets/generated/pin-ide-git-ru.svg" width="480" alt="IDE-Git-Ru pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
