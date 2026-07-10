@@ -85,13 +85,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/TgBotForOurGroup">
-        <img src=".github/assets/generated/pin-tgbotforourgroup.svg" width="480" alt="TgBotForOurGroup pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
