@@ -71,13 +71,6 @@
 
 <!-- PIN-CARDS:START -->
 <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/ChikoApp">
-        <img src=".github/assets/generated/pin-chikoapp.svg" width="480" alt="ChikoApp pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
