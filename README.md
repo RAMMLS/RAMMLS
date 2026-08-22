@@ -73,6 +73,13 @@
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/RAMMLS/MaxToTelegramMessages">
+        <img src=".github/assets/generated/pin-maxtotelegrammessages.svg" width="480" alt="MaxToTelegramMessages pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/RAMMLS/Mem-for-GF">
         <img src=".github/assets/generated/pin-mem-for-gf.svg" width="480" alt="Mem-for-GF pin" />
       </a>
