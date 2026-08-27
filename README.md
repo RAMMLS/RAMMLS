@@ -80,6 +80,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/RAMMLS/Steam-on-Mac">
+        <img src=".github/assets/generated/pin-steam-on-mac.svg" width="480" alt="Steam-on-Mac pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/RAMMLS/Mem-for-GF">
         <img src=".github/assets/generated/pin-mem-for-gf.svg" width="480" alt="Mem-for-GF pin" />
       </a>
