@@ -85,13 +85,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/Mem-for-GF">
-        <img src=".github/assets/generated/pin-mem-for-gf.svg" width="480" alt="Mem-for-GF pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
