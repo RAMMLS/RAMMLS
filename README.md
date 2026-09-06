@@ -73,6 +73,20 @@
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/RAMMLS/Assembly-labs">
+        <img src=".github/assets/generated/pin-assembly-labs.svg" width="480" alt="Assembly-labs pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RAMMLS/Labs-IB">
+        <img src=".github/assets/generated/pin-labs-ib.svg" width="480" alt="Labs-IB pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/RAMMLS/MaxToTelegramMessages">
         <img src=".github/assets/generated/pin-maxtotelegrammessages.svg" width="480" alt="MaxToTelegramMessages pin" />
       </a>
