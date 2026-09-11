@@ -73,6 +73,13 @@
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/RAMMLS/Labs-IB">
+        <img src=".github/assets/generated/pin-labs-ib.svg" width="480" alt="Labs-IB pin" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/RAMMLS/Labs-Electronic">
         <img src=".github/assets/generated/pin-labs-electronic.svg" width="480" alt="Labs-Electronic pin" />
       </a>
@@ -82,13 +89,6 @@
     <td align="center">
       <a href="https://github.com/RAMMLS/Assembly-labs">
         <img src=".github/assets/generated/pin-assembly-labs.svg" width="480" alt="Assembly-labs pin" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/Labs-IB">
-        <img src=".github/assets/generated/pin-labs-ib.svg" width="480" alt="Labs-IB pin" />
       </a>
     </td>
   </tr>
