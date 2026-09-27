@@ -99,13 +99,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/Steam-on-Mac">
-        <img src=".github/assets/generated/pin-steam-on-mac.svg" width="480" alt="Steam-on-Mac pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
