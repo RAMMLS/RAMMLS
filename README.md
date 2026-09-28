@@ -92,13 +92,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/MaxToTelegramMessages">
-        <img src=".github/assets/generated/pin-maxtotelegrammessages.svg" width="480" alt="MaxToTelegramMessages pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
