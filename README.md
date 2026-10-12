@@ -85,13 +85,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/Labs-IB">
-        <img src=".github/assets/generated/pin-labs-ib.svg" width="480" alt="Labs-IB pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
