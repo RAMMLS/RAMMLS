@@ -85,13 +85,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/Mos-hackathon">
-        <img src=".github/assets/generated/pin-mos-hackathon.svg" width="480" alt="Mos-hackathon pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
