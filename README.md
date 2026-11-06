@@ -78,13 +78,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RAMMLS/Labs-Electronic">
-        <img src=".github/assets/generated/pin-labs-electronic.svg" width="480" alt="Labs-Electronic pin" />
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- PIN-CARDS:END -->
 
